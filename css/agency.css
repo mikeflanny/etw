@@ -292,7 +292,7 @@ section h3.section-subheading {
   font-style: italic;
   font-weight: 400;
   margin-bottom: 75px;
-  color: #ffffff;
+  color: black;
 }
 @media (min-width: 768px) {
   section {
